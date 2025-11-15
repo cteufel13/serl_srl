@@ -7,6 +7,7 @@ from serl_launcher.data.replay_buffer import ReplayBuffer
 from serl_launcher.data.memory_efficient_replay_buffer import (
     MemoryEfficientReplayBuffer,
 )
+from serl_launcher.data.data_store_base import DataStoreBase
 
 # from agentlace.data.data_store import DataStoreBase
 
